@@ -1,0 +1,43 @@
+
+  
+{
+  "libraryStrings": {
+    "confirmDeleteSlide": "Të sigurtë që dëshironi ta fshini këtë slide?",
+    "sortSlide": "Lëviz slide :dir",
+    "backgroundSlide": "Sfondi i slide",
+    "removeSlide": "Fshi slide",
+    "cloneSlide": "Klono slide",
+    "newSlide": "Shto një slide të ri",
+    "insertElement": "Kliko dhe rrëshkit në vend :type",
+    "newKeyword": "Fjalë kyçe e re",
+    "save": "Ruaj",
+    "confirmRemoveElement": "Jeni të sigurtë që doni ta fshini këtë element?",
+    "cancel": "Anullo",
+    "done": "Përfundo",
+    "remove": "Fshi",
+    "edit": "Ndrysho",
+    "keywordsTip": "Rrëshkisni fjalët kyçe duke përdorur dy butonat më lart.",
+    "loading": "Në ngarkim...",
+    "slides": "Slides",
+    "element": "Element",
+    "resetToDefault": "Rikthe në të paracaktuara",
+    "resetToTemplate": "Rikthe në template",
+    "slideBackground": "Sfondi i slide",
+    "setImageBackground": "Figura sfond",
+    "setColorFillBackground": "Ngjyros sfondin",
+    "activeSurfaceWarning": "Jeni të sigurtë që doni të aktivizoni modalitetin Active Surface? Ky veprim nuk mund të rikthehet.",
+    "template": "Template",
+    "templateDescription": "Do të aplikohet në të gjitha slide të pa mbivendosura nga \":currentSlide\" settings.",
+    "currentSlide": "Ky slide",
+    "currentSlideDescription": "Do të aplikohet vetëm në këtë slide, dhe do të mbivendosë çdo \":template\" settings.",
+    "showTitles": "Shfaq titujt",
+    "alwaysShow": "Shfaq gjithmonë",
+    "autoHide": "Fshih automatikisht",
+    "ok": "OK", 
+    "slide": "Slide",
+    "opacity": "Opaciteti",
+    "goToSlide": "Shko tek slide",
+    "expandBreadcrumbButtonLabel": "Shko mbrapsh",
+    "collapseBreadcrumbButtonLabel": "Mbyll lundrimin"
+  }
+}
